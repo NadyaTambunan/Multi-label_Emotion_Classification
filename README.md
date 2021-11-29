@@ -2,7 +2,6 @@
 
 ## Daftar Isi 
 + [Info Umum](#info) 
-+ [Cuplikan Tampilan](#cuplikan)
 + [Kebutuhan](#kebutuhan)
 + [Potongan Kode](#potongan)
 + [Hasil](#hasil)
