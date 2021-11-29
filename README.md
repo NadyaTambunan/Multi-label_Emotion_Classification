@@ -24,7 +24,7 @@ Penelitian ini menggunakan metode `Bi-LSTM (Bidirectional Long Short Term Memory
 -----
 <a name="potongan"></a>
 ### Potongan Kode
-+ Bi-LSTM
++ Bi-LSTM <br />
 ![bilstm](https://user-images.githubusercontent.com/60679744/143877704-2c6a2934-4518-484c-ad92-7ae2d5a83bc6.PNG)
 
 + GloVe <br />
