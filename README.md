@@ -19,7 +19,7 @@ Penelitian ini menggunakan metode `Bi-LSTM (Bidirectional Long Short Term Memory
 + Python
 + Anaconda
 + Jupyter Notebook
-+ Word embedding GloVe
++ [Word embedding GloVe](https://www.kaggle.com/thanakomsn/glove6b300dtxt)
 
 -----
 <a name="potongan"></a>
@@ -28,8 +28,7 @@ Penelitian ini menggunakan metode `Bi-LSTM (Bidirectional Long Short Term Memory
 ![bilstm](https://user-images.githubusercontent.com/60679744/143877704-2c6a2934-4518-484c-ad92-7ae2d5a83bc6.PNG)
 
 + GloVe
-<br />
-![glove](https://user-images.githubusercontent.com/60679744/143877745-391e7473-5ffa-4598-99ef-b84fa2d77ce9.PNG)
+![glove](https://user-images.githubusercontent.com/60679744/143881087-e35e1853-2df2-4022-9d53-506b503e3d5d.PNG)
 
 + Evaluation
 ![evaluation](https://user-images.githubusercontent.com/60679744/143879569-22e592a5-2a85-4d9b-b024-3171ea3990b5.PNG)
