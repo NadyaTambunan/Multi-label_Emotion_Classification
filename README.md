@@ -9,26 +9,33 @@
 -----
 <a name="info"></a>
 ### Info Umum
+Pendeteksian emosi menggunakan klasifikasi multi-label menjadi masalah karena suatu kalimat cenderung melibatkan lebih dari satu kategori emosi. Sehingga, tantangan utama yang muncul adalah bagaimana memodelkan ketergantungan antar label menggunakan pendekatan klasifikasi. Analisis emosi melalui sebuah teks tampaknya juga menjadi tantangan karena faktanya bahwa ekspresi tekstual tidak selalu secara langsung melibatkan kata-kata yang berhubungan dengan emosi, tetapi seringkali suatu kalimat perlu dipahami untuk memberikan sebuah makna.
 
-
------
-<a name="cuplikan"></a>
-### Cuplikan Tampilan
+Penelitian ini menggunakan metode `Bi-LSTM (Bidirectional Long Short Term Memory) dan word embedding GloVe`. Dimana Bi-LSTM sangat baik digunakan untuk mengenali pola dalam kalimat, dikarenakan setiap kata dalam kalimat diproses secara sekuensial, kemudian word embedding GloVe memiliki akurasi yang baik untuk memproses pembobotan kata dalam data dibanding model word embeddings lain seperti CBOW dan skip-grams.
 
 -----
 <a name="kebutuhan"></a>
 ### Kebutuhan
-
++ Python
++ Anaconda
++ Jupyter Notebook
 
 -----
 <a name="potongan"></a>
 ### Potongan Kode
++ Bi-LSTM
+![bilstm](https://user-images.githubusercontent.com/60679744/143877704-2c6a2934-4518-484c-ad92-7ae2d5a83bc6.PNG)
 
++ GloVe
+![glove](https://user-images.githubusercontent.com/60679744/143877745-391e7473-5ffa-4598-99ef-b84fa2d77ce9.PNG)
+
++ Evaluation 
+![evaluation](https://user-images.githubusercontent.com/60679744/143876893-d1ede547-b31e-458f-9ef7-7c7bcadcdabf.PNG)
 
 -----
 <a name="Hasil"></a>
 ### Hasil
-
+![chart](https://user-images.githubusercontent.com/60679744/143876985-7a9f6161-5121-4eb6-ac4c-86e947419fc9.PNG)
 
 -----
 
