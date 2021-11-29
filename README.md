@@ -27,7 +27,7 @@ Penelitian ini menggunakan metode `Bi-LSTM (Bidirectional Long Short Term Memory
 + Bi-LSTM
 ![bilstm](https://user-images.githubusercontent.com/60679744/143877704-2c6a2934-4518-484c-ad92-7ae2d5a83bc6.PNG)
 
-+ GloVe
++ GloVe <br />
 ![glove](https://user-images.githubusercontent.com/60679744/143881087-e35e1853-2df2-4022-9d53-506b503e3d5d.PNG)
 
 + Evaluation
